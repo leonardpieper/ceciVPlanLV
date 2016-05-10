@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultYears">
+        <item>"EF"</item>
+        <item>"Q1"</item>
+        <item>"Q2"</item>
+    </string-array>
+    <string-array name="noClasses">
+        <item>"Keine Fächer vorhanden"</item>
+    </string-array>
+    <string-array name="examTypes">
+        <item>"Hausaufgabe"</item>
+        <item>"Klausur"</item>
+        <item>"Mündl. Prüfung"</item>
+        <item>"Test"</item>
+        <item>"Sonstiges"</item>
+    </string-array>
+</resources>

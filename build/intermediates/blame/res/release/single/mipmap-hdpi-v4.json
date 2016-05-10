@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_cecilogo.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\mipmap-hdpi\\ic_cecilogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

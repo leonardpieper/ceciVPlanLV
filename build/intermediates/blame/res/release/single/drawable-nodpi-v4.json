@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\example_picture.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-nodpi\\example_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_shader_pallete.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\exploded-aar\\com.github.LarsWerkman\\Lobsterpicker\\1.0.1\\res\\drawable-nodpi-v4\\default_shader_pallete.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\example_appwidget_preview.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-nodpi\\example_appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\default_pallete.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\exploded-aar\\com.github.LarsWerkman\\Lobsterpicker\\1.0.1\\res\\drawable-nodpi-v4\\default_pallete.png"
+    }
+]

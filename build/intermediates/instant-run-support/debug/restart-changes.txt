@@ -1,0 +1,1 @@
+CHANGED,C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\github\leonardpieper\ceciVPlanLV\MainActivity.class

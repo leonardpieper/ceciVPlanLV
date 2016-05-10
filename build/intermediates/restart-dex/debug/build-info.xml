@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="9026533300370" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="8631108198648" >
+        <artifact
+            location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\outputs\apk\ceciVPlan-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8776196028749"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\builds\debug\8776196028749\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8824331661836"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\builds\debug\8824331661836\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8907041764357"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\builds\debug\8907041764357\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="9026533300370" >
+        <artifact
+            location="C:\Users\Leonard\AndroidStudioProjects\App - Final 1 - LV\ceciVPlan\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

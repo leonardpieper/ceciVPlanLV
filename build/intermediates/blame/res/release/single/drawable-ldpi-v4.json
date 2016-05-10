@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_school.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_person.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_add.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_help.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_sync.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_schedule.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_settings.png",
+        "source": "C:\\Users\\Leonard\\AndroidStudioProjects\\App - Final 1 - LV\\ceciVPlan\\src\\main\\res\\drawable-ldpi\\ic_settings.png"
+    }
+]

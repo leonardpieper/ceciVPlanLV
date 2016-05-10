@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.leonard.ceciVPlan">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.SettingsActivityOld"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.HelpActivity"
+            android:label="@string/title_activity_help"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.ExamsActivity"
+            android:label="@string/title_activity_exams"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.SettingsFragment"></activity>
+
+        <receiver android:name="com.github.leonardpieper.ceciVPlanLV.NotifyReceiver"></receiver>
+
+        <service android:name="com.github.leonardpieper.ceciVPlanLV.NotifyService"></service>
+
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.FirstStartActivity"></activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.TimetableActivity_old"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.github.leonardpieper.ceciVPlanLV.TimeTableActivity"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.PrefDayActivity">
+            <intent-filter>
+                <action android:name="com.github.leoanrdpieper.activities.ceciVPlan" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.ChangeTTActivity"></activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.UpdateTTActivity"></activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.AddExamActivity"></activity>
+        <activity android:name="com.github.leonardpieper.ceciVPlanLV.LogginActivity"></activity>
+    </application>
+
+</manifest>
